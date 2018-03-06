@@ -66,7 +66,7 @@
     <string name="action_send">POUET</string>
     <string name="action_send_public">POUET !</string>
     <string name="action_retry">Réessayer</string>
-    <string name="action_hide_text">Masquer le texte par une mise en garde.</string>
+    <string name="action_hide_text">Masquer le texte par une mise en garde</string>
     <string name="action_close">Fermer</string>
     <string name="action_view_profile">Profil</string>
     <string name="action_view_preferences">Préférences</string>
